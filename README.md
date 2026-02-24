@@ -106,6 +106,11 @@ These factors significantly influenced generalization performance.
 
 ##  7. Proposed Two-Stage Architecture (Outlook)
 
+### System Architecture Overview
+
+![Defect Detection Pipeline](./assets/pipeline_architecture.png)
+
+
 A modular two-stage pipeline was proposed:
 Stage 1:
 Binary anomaly detection (EfficientNet)
